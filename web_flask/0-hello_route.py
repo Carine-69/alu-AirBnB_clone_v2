@@ -1,5 +1,5 @@
 # !/usr/bin/python3
-# web application listening on 0.0.0.0. and port 5000
+"""web application listening on 0.0.0.0. and port 5000"""
 from flask import Flask
 
 app = Flask(__name__)
